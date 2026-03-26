@@ -1,0 +1,5 @@
+prinnt ("Hello")
+print ("my name is Asfiya")
+print("I am from BscHons")
+print("section B")
+print("USN 1RUA24SCS0115")
